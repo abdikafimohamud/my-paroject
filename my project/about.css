@@ -1,0 +1,19 @@
+h2 {
+    background-color: yellow;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: bold;
+    color: red; 
+}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+}
+
+.gallery img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 5px;
+}

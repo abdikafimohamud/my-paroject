@@ -1,0 +1,57 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input, textarea, button {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #45a049; 
+}
+body{
+    background: pink;
+}
+h3{
+    background-color: red;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+}
+h4{
+    background-color: brown;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: bold;
+    color: black;
+}
+h2{
+    background-color: yellow;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: bold;
+    color: black; 
+}
+nav ul li {
+    display: inline; 
+    margin-right: 15px; 
+}

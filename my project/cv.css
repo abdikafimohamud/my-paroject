@@ -1,0 +1,55 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px; 
+    text-align: left; 
+}
+
+th {
+    background-color: green; 
+    color: yellow; 
+}
+h1 {
+    background-color: red;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: bold;
+    color: black; 
+}
+h3 {
+    background-color: yellow;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: bold;
+    color: black;
+}
+p{
+        background-color: brown;
+        font-size: 20px;
+        margin: auto;
+        text-align: center;
+        text-transform: bold;
+        color: black;
+}
+/* body{
+    background-width-color: red;
+} */
+nav ul li {
+    display: inline; 
+    margin-right: 15px; 
+}
+h2 {
+    
+    font-size: 20px;
+    margin: auto;
+    text-align: left;
+    text-transform: bold;
+    color: red; 
+}
+
